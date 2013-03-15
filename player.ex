@@ -1,4 +1,4 @@
-defrecord Player, x: nil, y: nil, hp: 10
+defrecord Player, x: nil, y: nil, hp: 10, name: nil
 
 defmodule PlayerBehavior do
 
